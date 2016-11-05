@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://igniteduval.github.io
+title: Education Hunt
+tagline: Free Education Resources 
+description: Lesson planning takes time. Finding resources is hard. Education Hunt makes finding resources easy without wasting time. 
+paginate: 5
